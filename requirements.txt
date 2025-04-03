@@ -2,8 +2,6 @@
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
 # created-by: conda 24.11.3
-_libgcc_mutex=0.1=conda_forge
-_openmp_mutex=4.5=2_gnu
 asttokens=2.4.1=pyhd8ed1ab_0
 blas=2.131=openblas
 blas-devel=3.9.0=31_h1ea3ea9_openblas
